@@ -1,4 +1,4 @@
-Hi there, I'm saif sayyed, a first year student at JSPM JSCOE, Hadapsar, Pune. I'm a 1st year CS B. Tech student who admires developers a lot and someday wants to create awesome open source projects just like some awesome developers I know. Currently, I don't have much to me but I'm trying to learn full stack web development from the odin project and want to become a backend developer someday and maybe transition to devops after some time. Thanks for stopping by! 
+Hi there, I'm saif sayyed, a first year student at JSPM JSCOE, Hadapsar, Pune. I'm a 1st year CS B. Tech student who admires developers a lot and someday wants to create awesome open source projects just like some awesome developers I know. Currently, I don't have much to me but I'm trying to learn full stack web development from the odin project and want to become a backend developer someday and maybe transition to devops after some time. This is all, but thanks for stopping by! (^~^) 
 
 
 
